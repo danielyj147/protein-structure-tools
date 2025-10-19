@@ -50,7 +50,7 @@ To run a script, simply pass it the path to a `.pdb` file.
 2. **Run the script:**
 
     ```bash
-    python parse_pdb.py AF-P76011-F1-model_v6.pdb
+    python parse_pdb.py data/AF-P76011-F1-model_v6.pdb
     ```
 
     **Expected Output:**
