@@ -1,0 +1,10 @@
+[project]
+name = "protein-structure-tools"
+version = "0.1.0"
+description = "A collection of Python scripts for exploring and analyzing protein 3D structures."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "biopython>=1.85",
+    "ipykernel>=7.0.1",
+]
